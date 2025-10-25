@@ -106,6 +106,14 @@ Click Save changes.
 }
 
 
+
+![Bucket-policy](images/S3Bucket-Policy.png)
+
 . Refresh the browser tab with the static website (the endpoint URL you opened earlier). This time, the site should load correctly.
 
-Conclusion
+
+![Static-website-Hosted](images/Static-Website-Hosted.png)
+
+
+# Conclusion
+Hosting a static website on Amazon S3 proved to be a reliable, cost-effective, and scalable solution. By leveraging S3’s high availability and seamless integration with AWS services, the deployment process was straightforward and efficient.
