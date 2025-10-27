@@ -8,7 +8,7 @@ Log in to your AWS environment and select your prefered region
 
 # Create S3 Bucket
 
-Firstly, In a new browser tab, Open https://www.tooplate.com and download any of the HML template or CSS template you prefered for the code.
+Firstly, In a new browser tab, click [here](https://www.tooplate.com) and download any of the HML template or CSS template you prefered for the code.
 
 ![tooplate-download](images/tooplate-download.png)
 
